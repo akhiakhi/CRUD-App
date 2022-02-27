@@ -1,11 +1,11 @@
 {
-    "users":[
-        {
-            "Name": "Jitendra Kushwaha",
-            "Username": "Jitendra",
-            "Email": "Jitendra@gmail.com",
-            "Mobile": "5468721586",
-            "Id": "1"
-        }
-    ]
+  "users": [
+    {
+      "name": "Jitendra Kushwaha",
+      "username": "Jitendra",
+      "email": "Jitendra@gmail.com",
+      "mobile": "5468721586",
+      "id": "1"
+    }
+  ]
 }
